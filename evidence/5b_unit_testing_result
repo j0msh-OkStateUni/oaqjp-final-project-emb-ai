@@ -1,0 +1,15 @@
+test_anger (test_emotion_detection.TestEmotionDetector)
+Check that an angry statement produces anger. ... ok
+test_disgust (test_emotion_detection.TestEmotionDetector)
+Check that a disgusted statement produces disgust. ... ok
+test_fear (test_emotion_detection.TestEmotionDetector)
+Check that a fearful statement produces fear. ... ok
+test_joy (test_emotion_detection.TestEmotionDetector)
+Check that a happy statement produces joy. ... ok
+test_sadness (test_emotion_detection.TestEmotionDetector)
+Check that a sad statement produces sadness. ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.689s
+
+OK
